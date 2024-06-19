@@ -1,0 +1,1 @@
+load SPY -s 1990-01-01 -m --export spy_monthly.csv

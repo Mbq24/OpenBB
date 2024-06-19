@@ -1,0 +1,2 @@
+- conda activate obb
+- openbb (will launch the terminal)

@@ -1,0 +1,19 @@
+# stock analysis for schwab 
+# -i ADBE, BBY, GILD, HD
+stocks
+
+# load ticker
+load $ARGV[0]
+
+ta
+
+recom
+fib
+ema
+
+..
+fa
+pt
+earnings
+..
+..
